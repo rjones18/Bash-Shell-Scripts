@@ -1,2 +1,2 @@
 # Shell-Scripts
-Shell
+This repository is for storing various shell scripts I have created.
